@@ -1,0 +1,10 @@
+Suspicious/Removed Extensions:
+
+1. PDF Converter Pro<br>
+    Reason: Unknown developer, required access to all website data, poor reviews indicating spam pop-ups.<br>
+2. Shopping Assistant Plus<br>
+    Reason: Installed without permission, injected ads into websites, tracked browsing history.<br>
+3. Easy Weather Tracker<br>
+    Reason: Requested geolocation and browsing history for unrelated functionality, very low rating.<br>
+4. FastSearch Extension<br>
+  Reason: Changed default search engine without user consent, redirected to suspicious domains.<br>
